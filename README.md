@@ -66,7 +66,7 @@ REFACTOR  带 skill 重跑 → 验证失败被堵住
 | 漏更新索引   | 忘了加 Readme 链接 | 第 6 步必须项   |
 | 前端类比滥用 | 每处都生硬类比     | 只在差异大处    |
 
-**验证结果**:带 skill 重跑 L1/L3,5 类失败全部堵住。推导过程归档在 [`docs/superpowers/baseline-records/`](docs/superpowers/baseline-records/),可查证——这不是"我觉得 skill 有用",是跑过对照实验的。
+**验证结果**:带 skill 重跑 L1/L3,5 类失败全部堵住。跑过对照实验。
 
 ---
 
