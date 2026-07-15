@@ -37,7 +37,7 @@
 
 **superpowers 工程化层面**
 
-- 这个 skill 本身是用 [superpowers](https://github.com/anthropics/superpowers) 的全流程产出的:`brainstorming`(设计)→ `writing-plans`(计划)→ `subagent-driven-development`(执行)
+- 这个 skill 本身是用 [superpowers](https://github.com/obra/superpowers) 的全流程产出的:`brainstorming`(设计)→ `writing-plans`(计划)→ `subagent-driven-development`(执行)
 - skill 不是随便写的,是用 **TDD for skills** 开发的(见下节)
 
 **前端类比策略**
