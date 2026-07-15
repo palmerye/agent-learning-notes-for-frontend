@@ -135,3 +135,5 @@ docs/superpowers/
 | 输出 token | 7.7k |
 
 会不会有热心同学众筹一下 = =
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/804cc35f-c473-4970-a9a0-3675fe09372e" />
