@@ -13,6 +13,7 @@
 - [L1 AI Agent 开发要学什么？](src/L1/readme.md) — 跑通第一个 LLM 调用
 - [L2 从 Tool 开始：让大模型自动调工具读文件](src/L2/readme.md) — 最小 agent(工具调用 + 循环)
 - [L3 实现 mini cursor：大模型自动调用 tool 执行命令](src/L3/readme.md) — spawn + 4 工具 + agent 循环(多文件)
+- [L4 MCP：让工具跨进程、可复用、可组合](src/L4/readme.md) — MCP client/server + 资源 vs 工具 + JSON-RPC 跨进程
 
 ---
 
