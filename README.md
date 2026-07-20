@@ -15,6 +15,7 @@
 - [L3 实现 mini cursor：大模型自动调用 tool 执行命令](src/L3/readme.md) — spawn + 4 工具 + agent 循环(多文件)
 - [L4 MCP：让工具跨进程、可复用、可组合](src/L4/readme.md) — MCP client/server + 资源 vs 工具 + JSON-RPC 跨进程
 - [L5 复用别人的 MCP Server：高德 + 浏览器 + 文件系统](src/L5/readme.md) — 多 server 协作 + stdio/HTTP + 异常自动截图报告闭环
+- [L6 把文档向量化：基于向量实现真正的语义搜索](src/L6/readme.md) — RAG 全链路 + 向量本质 + 余弦相似度 + embedding 全零坑
 
 ---
 
